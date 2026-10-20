@@ -1,0 +1,17 @@
+// EDITE ESTE ARQUIVO PARA ATUALIZAR PERSONAGENS.
+// skin: nickname verdadeiro do Minecraft (ou null enquanto não souber).
+// Todos têm status 'vivo', exceto Fredyh. Não inclua informações posteriores ao episódio 2.
+window.TERRA_CHARACTERS = [
+  { name:'Peagaah', skin:'Peagaah', status:'vivo', role:'PROTAGONISTA', subtitle:'O jogador no centro da história', bio:'Peagaah chega ao servidor e acaba envolvido em uma disputa pelo futuro de Terra Ameaçada. Ao longo da jornada, enfrenta alianças instáveis, perigos e escolhas difíceis. Seu ponto de vista conduz a história.' },
+  { name:'Dogg', skin:'udogg', status:'vivo', role:'ANTAGONISTA', subtitle:'O arquiteto de um plano perigoso', bio:'Manipulador e imprevisível, Dogg coleta cabeças de jogadores como parte de um plano para transformar o servidor em hardcore. Ele pretende usar esse poder para atingir Mathperrut, mas coloca todos os demais em perigo.' },
+  { name:'Mathperrut', skin:'mathperrut_', status:'vivo', role:'PODER & INFLUÊNCIA', subtitle:'Uma das forças dominantes do servidor', bio:'Mathperrut representa riqueza, domínio e influência política no servidor. Seu conflito com Dogg desencadeia consequências que vão muito além dos dois.' },
+  { name:'Fredyh', skin:'Fredyh_', status:'morto', role:'PERSONAGEM MARCANTE', subtitle:'Entre lados opostos da guerra', bio:'Fredyh é um dos primeiros personagens que Peagaah encontra. Em meio às disputas entre lados rivais, passa por conflitos de lealdade e escolhas difíceis. É o único personagem registrado como morto neste arquivo.' },
+  { name:'SrPedro', skin:null, status:'vivo', role:'ALIADO', subtitle:'Uma presença ligada à jornada de Peagaah', bio:'SrPedro faz parte das relações de confiança construídas ao redor de Peagaah. Sua história continua em aberto no recorte coberto por este arquivo.' },
+  { name:'Hebble', skin:null, status:'vivo', role:'LIDERANÇA', subtitle:'A autoridade de um reino', bio:'Hebble está ligado ao reino e aos acontecimentos envolvendo a prisão. Suas ações e as de seus guardas participam dos conflitos do início da história.' },
+  { name:'Grazielle', skin:null, status:'vivo', role:'PERSONAGEM', subtitle:'Um dos primeiros encontros', bio:'Grazielle está entre os primeiros jogadores que Peagaah encontra quando a história começa.' },
+  { name:'LadyMohigan', skin:null, status:'vivo', role:'PERSONAGEM', subtitle:'Encontro do segundo episódio', bio:'LadyMohigan é uma das primeiras personagens encontradas por Peagaah durante os acontecimentos do segundo episódio.' },
+  { name:'Cl4upy', skin:null, status:'vivo', role:'JOGADOR', subtitle:'Parte do universo de Terra Ameaçada', bio:'Personagem do universo de Terra Ameaçada. Seu perfil poderá ser ampliado com detalhes confirmados dos episódios já lançados.' },
+  { name:'Pexez', skin:null, status:'vivo', role:'JOGADOR', subtitle:'Parte do universo de Terra Ameaçada', bio:'Personagem do universo de Terra Ameaçada. Mais informações poderão ser acrescentadas ao arquivo.' },
+  { name:'Waru', skin:null, status:'vivo', role:'JOGADOR', subtitle:'Parte do universo de Terra Ameaçada', bio:'Personagem do universo de Terra Ameaçada. Mais informações poderão ser acrescentadas ao arquivo.' },
+  { name:'Duboc', skin:null, status:'vivo', role:'JOGADOR', subtitle:'Parte do universo de Terra Ameaçada', bio:'Personagem do universo de Terra Ameaçada. Mais informações poderão ser acrescentadas ao arquivo.' }
+];
